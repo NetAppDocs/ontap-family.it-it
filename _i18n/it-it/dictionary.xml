@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">ONTAP ti aiuta a creare un'infrastruttura storage che riduca i costi, acceleri i carichi di lavoro critici e proteggi e proteggi i dati.</block>
+  <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">Documentazione del prodotto ONTAP</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tutto</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">Automazione</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">Gestione dei dati</block>
+  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">Migrazione dei dati</block>
+  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">Protezione dei dati</block>
+  <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">Sistemi</block>
+  <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
+  <block id="9523e2611916570d7f12959f26121afb" category="sidebar">Implementa e gestisci il software di gestione dei dati ONTAP 9 nel tuo data center utilizzando l'interfaccia CLI di ONTAP e le versioni più recenti di Gestore di sistema di ONTAP (ONTAP 9.7 e versioni successive).</block>
+  <block id="391aea2b8a642f755fa9fc56deaf7f9d" category="sidebar">Automazione ONTAP</block>
+  <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">Automatizza l'implementazione e l'amministrazione dei sistemi storage ONTAP utilizzando l'API REST di ONTAP e le tecnologie di supporto.</block>
+  <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">Comandi ONTAP</block>
+  <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">Scopri i comandi disponibili nella CLI di ONTAP.</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">Proteggi il tuo storage utilizzando il clustering basato su array con replica sincrona per offrire una disponibilità continua.</block>
+  <block id="353534d94bfe5cda4a518ae399d604c2" category="sidebar">Documentazione AFF e FAS</block>
+  <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">Consultare la pagina della documentazione di AFF and FAS per informazioni su come installare, gestire e aggiornare i sistemi AFF e FAS e gli switch di cluster e storage.</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
+  <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">Implementa un'istanza virtuale di ONTAP per rendere lo storage cloud più conveniente, intelligente, conforme e sicuro.</block>
+  <block id="49e3dd7d4b1caa914dbba9cd07313728" category="sidebar">Riferimento EMS ONTAP</block>
+  <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">Scopri di più sugli eventi del sistema di messaggistica degli eventi (EMS) in ONTAP.</block>
+  <block id="79e721357e358d77c4700c25c863fc37" category="sidebar">Configurazione host SAN ONTAP</block>
+  <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">Configurare gli host SAN ONTAP per i protocolli NVMe, iSCSI e FC.</block>
+  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">Gestore di sistema ONTAP classico</block>
+  <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">ONTAP 9.7 e versioni precedenti utilizzano un layout diverso per l'interfaccia di Gestione di sistema di ONTAP.</block>
+  <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">Transizione ONTAP 7-Mode</block>
+  <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">Transizione dei dati dalle precedenti piattaforme 7-mode alle moderne piattaforme di storage in cluster.</block>
+  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">Importazione LUN esterna ONTAP</block>
+  <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">Migrazione delle LUN da array di terze parti e sistemi 7-mode a uno storage NetApp moderno.</block>
+  <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
+  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">Implementa ONTAP come appliance di storage software-defined su una vasta gamma di server hardware commodity che eseguono l'hypervisor VMware ESXi.</block>
+  <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
+  <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">Utilizza le LUN degli array per presentare gli array e-series e di terze parti come storage servito da ONTAP.</block>
+</blocks>
