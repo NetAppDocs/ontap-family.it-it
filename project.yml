@@ -52,13 +52,19 @@ product-family:
     summary: Proteggi il tuo storage utilizzando il clustering basato su array con
       replica sincrona per offrire una disponibilità continua.
     tags: all, tag_data_protection
-  - title: Documentazione AFF e FAS
+  - title: AFF A-Series e C-Series, FAS, tutti gli array SAN e gli switch
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
     summary: Consultare la pagina della documentazione di AFF and FAS per informazioni
       su come installare, gestire e aggiornare i sistemi AFF e FAS e gli switch di
       cluster e storage.
     tags: all, tag_systems
+  - title: Report tecnici ONTAP
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: Scopri di più sull'architettura ONTAP e su come ottimizzare ONTAP per
+      carichi di lavoro e ambienti specifici.
+    tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -71,7 +77,7 @@ product-family:
     summary: Scopri di più sugli eventi del sistema di messaggistica degli eventi
       (EMS) in ONTAP.
     tags: all, tag_data_management
-  - title: Configurazione host SAN ONTAP
+  - title: Configurazione dell'host SAN ONTAP
     icon: "./media/server.png"
     url: https://docs.netapp.com/us-en/ontap-sanhost/
     summary: Configurare gli host SAN ONTAP per i protocolli NVMe, iSCSI e FC.
